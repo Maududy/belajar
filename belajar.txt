@@ -28,17 +28,29 @@ Belajar Ulang :
     - $ git config --global user.email "email@kita.com"
     - $ git commit
     - $ git commit -m "Menambahkan Pesan Commit"
-    - $ git commit -am "Instant Add sekaligus Commit"
+    - $ git commit -am "Instant Add UPDATE sekaligus Commit"
     - $ git log
     - $ git log -- nama.file
+    - $ git log --all --decorate --oneline --graph
+    - alias graph="git log --all --decorate --oneline --graph"
+    - graph
+    - $ git checkout namabranch
     - $ git checkout 5hashAwal
     - $ git checkout 5hashAwal -- nama.file
     - $ git branch
+    - $ git branch <nama_branch>
+    - $ git merge <nama_branch>
+    - $ git branch --merged
+    - $ git branch -d <nama_branch_yang_sudah_dimerge_dan_mau_dihapus>
+    - $ git branch -D <nama_branch_yang_mau_dipaksa_hapus>
     - $ git help
   - 3 Area pada repo Git
     - Working Tree: save (repo local)
     - Staging Area: git add (ada perubahan)
     - History: git commit (kalau sudah oke di commit)
+  - 2 Jenis Merge
+    - Fast Forward Merge (berada dalam jalur langsung/direct path)
+    - Three-way Merge (Merge sekaligus Commit) : recursive strategy / ort strategy?
 - PHP MVC
   - login system dengan 3 jenis user (view))
 - Laravel
