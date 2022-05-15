@@ -50,6 +50,8 @@ Belajar Ulang :
     - $ git branch -M main
     - $ git push -u origin main
     - $ git push
+    - $ git fetch (update commit)
+    - $ git pull
     - $ git help
   - 3 Area pada repo Git
     - Working Tree: save (repo local)
