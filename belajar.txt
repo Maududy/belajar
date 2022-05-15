@@ -14,15 +14,24 @@ Belajar Ulang :
     - Fork: duplikat repo orang, bisa pull request dengan repo ori
 - Git
   -Basic
+    - pwd: print working directory
+    - ls
+    - clear
+    - cd: change directory
+    - mkdir: make directory
     - $ git init
     - $ git add <file(s)>
+    - $ git add .
     - $ git status
-    - $ git commit
     - $ git config
+    - $ git config --global user.name "Nama Kita"
+    - $ git config --global user.email "email@kita.com"
+    - $ git commit
+    - $ git commit -m "Menambahkan Pesan Commit"
     - $ git branch
     - $ git help
   - 3 Area pada repo Git
-    - Working Tree: repo
+    - Working Tree: save (repo local)
     - Staging Area: git add (ada perubahan)
     - History: git commit (kalau sudah oke di commit)
 - PHP MVC
