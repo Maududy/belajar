@@ -43,6 +43,9 @@ Belajar Ulang :
     - $ git branch --merged
     - $ git branch -d <nama_branch_yang_sudah_dimerge_dan_mau_dihapus>
     - $ git branch -D <nama_branch_yang_mau_dipaksa_hapus>
+    - $ git remote
+    - $ git remote -v
+    - $ git push
     - $ git help
   - 3 Area pada repo Git
     - Working Tree: save (repo local)
