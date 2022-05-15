@@ -1,5 +1,16 @@
 Belajar Ulang :
 - Github
+  - Basic
+    - Repo: folder projek
+    - Commit: snapshot repo
+    - Hash: kode unik tiap commit
+    - Checkout: berpindah commit
+    - Branch: cabang bebas dari sebuah commit
+    - Merge: menggabungkan Branch
+    - Remote: sumber yang memiliki Repo (Cloud?)
+    - Clone: mengambil repo dari Remote
+    - Push: mengirim commit ke repo
+    - Pull: mengambil commit dari repo
 - Git
 - PHP MVC
   -login system
