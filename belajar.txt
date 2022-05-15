@@ -11,7 +11,7 @@ Belajar Ulang :
     - Clone: mengambil repo dari Remote
     - Push: mengirim commit ke repo
     - Pull: mengambil commit dari repo
-    - Fork: duplikat repo orang
+    - Fork: duplikat repo orang, bisa pull request dengan repo ori
 - Git
 - PHP MVC
   - login system dengan 3 jenis user (view))
