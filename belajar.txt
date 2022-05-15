@@ -35,8 +35,8 @@ Belajar Ulang :
     - alias graph="git log --all --decorate --oneline --graph"
     - graph
     - $ git checkout namabranch
-    - $ git checkout 5hashAwal
-    - $ git checkout 5hashAwal -- nama.file
+    - $ git checkout 5atau7hashAwal
+    - $ git checkout 5atau7hashAwal -- nama.file
     - $ git branch
     - $ git branch <nama_branch>
     - $ git merge <nama_branch>
