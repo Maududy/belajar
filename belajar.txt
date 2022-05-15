@@ -51,7 +51,7 @@ Belajar Ulang :
     - $ git push -u origin main
     - $ git push
     - $ git fetch (update commit)
-    - $ git pull
+    - $ git pull (jika conflict, bisa untuk mengambil sekaligus update data di local, edit, lalu push)
     - $ git help
   - 3 Area pada repo Git
     - Working Tree: save (repo local)
