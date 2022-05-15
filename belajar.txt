@@ -29,6 +29,9 @@ Belajar Ulang :
     - $ git commit
     - $ git commit -m "Menambahkan Pesan Commit"
     - $ git log
+    - $ git log -- nama.file
+    - $ git checkout 5hashAwal
+    - $ git checkout 5hashAwal -- nama.file
     - $ git branch
     - $ git help
   - 3 Area pada repo Git
