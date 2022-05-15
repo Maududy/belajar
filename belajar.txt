@@ -28,6 +28,7 @@ Belajar Ulang :
     - $ git config --global user.email "email@kita.com"
     - $ git commit
     - $ git commit -m "Menambahkan Pesan Commit"
+    - $ git log
     - $ git branch
     - $ git help
   - 3 Area pada repo Git
