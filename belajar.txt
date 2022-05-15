@@ -2,8 +2,9 @@ Belajar Ulang :
 - Github
 - Git
 - PHP MVC
-  -login system
+  - 3 view
 - Laravel
-  -login system
+  - 3 view
 - CodeIgniter
-  -login system
+  - 3 view
+
