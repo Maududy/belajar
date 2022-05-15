@@ -13,8 +13,8 @@ Belajar Ulang :
     - Pull: mengambil commit dari repo
 - Git
 - PHP MVC
-  -login system dengan 3 user (view)
+  - login system dengan 3 jenis user (view))
 - Laravel
-  -login system dengan 3 user (view)
+  - login system dengan 3 jenis user (view))
 - CodeIgniter
-  -login system dengan 3 user (view)
+  - login system dengan 3 jenis user (view))
