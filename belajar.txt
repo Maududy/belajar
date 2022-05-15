@@ -43,6 +43,7 @@ Belajar Ulang :
     - $ git branch --merged
     - $ git branch -d <nama_branch_yang_sudah_dimerge_dan_mau_dihapus>
     - $ git branch -D <nama_branch_yang_mau_dipaksa_hapus>
+    - $ git clone https://github.com/Maududy/belajar.git
     - $ git remote
     - $ git remote -v
     - $ git push
