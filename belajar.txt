@@ -46,6 +46,9 @@ Belajar Ulang :
     - $ git clone https://github.com/Maududy/belajar.git
     - $ git remote
     - $ git remote -v
+    - $ git remote add origin https://github.com/Maududy/test-remote-repo.git
+    - $ git branch -M main
+    - $ git push -u origin main
     - $ git push
     - $ git help
   - 3 Area pada repo Git
