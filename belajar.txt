@@ -13,6 +13,18 @@ Belajar Ulang :
     - Pull: mengambil commit dari repo
     - Fork: duplikat repo orang, bisa pull request dengan repo ori
 - Git
+  -Basic
+    - $ git init
+    - $ git add <file(s)>
+    - $ git status
+    - $ git commit
+    - $ git config
+    - $ git branch
+    - $ git help
+  - 3 Area pada repo Git
+    - Working Tree: repo
+    - Staging Area: git add (ada perubahan)
+    - History: git commit (kalau sudah oke di commit)
 - PHP MVC
   - login system dengan 3 jenis user (view))
 - Laravel
