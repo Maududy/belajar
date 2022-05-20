@@ -39,6 +39,7 @@ Belajar Ulang :
     - $ git checkout 5atau7hashAwal -- nama.file
     - $ git branch
     - $ git branch <nama_branch>
+    - $ git checkout -b namabranchKalauBelumAdaAkanDibuat
     - $ git merge <nama_branch>
     - $ git branch --merged
     - $ git branch -d <nama_branch_yang_sudah_dimerge_dan_mau_dihapus>
