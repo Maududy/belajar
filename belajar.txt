@@ -42,6 +42,7 @@ Belajar Ulang :
     - $ git checkout -b namabranchKalauBelumAdaAkanDibuat
     - $ git merge <nama_branch>
     - $ git rebase <masukbranch_lalu_ininamabranchMaster>
+    - $ git rebase <lanjutmasukmaster_lalu_ininamabranchupdate>
     - $ git branch --merged
     - $ git branch -d <nama_branch_yang_sudah_dimerge_dan_mau_dihapus>
     - $ git branch -D <nama_branch_yang_mau_dipaksa_hapus>
